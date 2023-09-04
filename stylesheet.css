@@ -12,3 +12,10 @@ img {
   width:70px;
   
 }
+li {
+  color: #444;
+}
+.selected{
+  color: #ff000;
+}
+  
